@@ -1,5 +1,7 @@
 # Hi there! 👋 I'm Anuradha
 
+![](https://media.licdn.com/dms/image/v2/D4E16AQHYuAgG2-6Thg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729144965892?e=1738195200&v=beta&t=s8vKVGLiyYcV7J5u97gQtYJNed_pSVeD3iJyaJrQ_18)
+
 Welcome to my GitHub profile! I'm a passionate **UI/UX Designer** with a knack for creating intuitive and visually appealing digital experiences. My focus is on crafting user-centered designs that are functional, beautiful, and impactful.
 
 ---
