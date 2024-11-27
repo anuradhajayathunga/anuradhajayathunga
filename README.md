@@ -35,10 +35,10 @@ Here’s a quick look at my work on GitHub:
 ---
 
 ## 📫 How to Reach Me
-- 🌐 Portfolio: [Your Portfolio URL](#)
-- 💼 LinkedIn: [Your LinkedIn URL](#)
-- 📧 Email: [Your Email Address](#)
-- 🐦 Twitter: [Your Twitter Handle (optional)](#)
+- 🌐 Portfolio: 
+- 💼 LinkedIn: 
+- 📧 Email: 
+- 🐦 Twitter: 
 
 ---
 
