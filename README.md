@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Anuradha
 
 Welcome to my GitHub profile! I'm a passionate **UI/UX Designer** with a knack for creating intuitive and visually appealing digital experiences. My focus is on crafting user-centered designs that are functional, beautiful, and impactful.
 
