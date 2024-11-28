@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Anuradha
+# Hi there! 👋 I'm [Your Name]
 
 Welcome to my GitHub profile! I'm a passionate **UI/UX Designer** with a knack for creating intuitive and visually appealing digital experiences. My focus is on crafting user-centered designs that are functional, beautiful, and impactful.
 
@@ -35,10 +35,10 @@ Here’s a quick look at my work on GitHub:
 ---
 
 ## 📫 How to Reach Me
-- 🌐 Portfolio: [Your Portfolio URL](#)
-- 💼 LinkedIn: [Your LinkedIn URL](#)
-- 📧 Email: [Your Email Address](#)
-- 🐦 Twitter: [Your Twitter Handle (optional)](#)
+- 🌐 Portfolio: 
+- 💼 LinkedIn: 
+- 📧 Email: 
+- 🐦 Twitter: 
 
 ---
 
