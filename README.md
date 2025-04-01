@@ -103,8 +103,7 @@ I believe that great design isn’t just about aesthetics—it’s about craftin
 
 If you’re looking for a designer who can transform your ideas into impactful digital experiences, let’s chat! Whether it’s a website redesign, app development, or a creative brainstorming session—I’m here to help.
 
-📩 **Email:** [anuradha@example.com](mailto:anuradha@example.com)  
-📞 **Phone:** +123 456 7890  
+📩 **Email:** [anuradha.jaya@gmail.com](mailto:anuradha.jaya@gmail.com)  
 
 ---
 
