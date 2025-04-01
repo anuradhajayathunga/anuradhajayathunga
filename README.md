@@ -31,7 +31,6 @@ I believe that great design isn’t just about aesthetics—it’s about craftin
 ### 🌟 **Featured Projects: Turning Ideas into Reality**
 
 #### 🛍️ **E-Commerce UX Redesign**  
-![Project Banner](https://via.placeholder.com/800x300.png?text=E-Commerce+Redesign)  
 
 📌 **Objective:** Enhance user engagement and streamline the shopping experience.  
 🎯 **Key Achievements:**  
@@ -45,7 +44,6 @@ I believe that great design isn’t just about aesthetics—it’s about craftin
 ---
 
 #### 📱 **Productivity App UX Case Study**  
-![Project Banner](https://via.placeholder.com/800x300.png?text=Productivity+App+UX)  
 
 📌 **Objective:** Improve user experience for better productivity.  
 🎯 **Key Achievements:**  
