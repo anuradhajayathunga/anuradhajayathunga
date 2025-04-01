@@ -2,7 +2,7 @@
 
 ## 🌈 UI/UX Designer | Creating Intuitive Digital Experiences
 
-![Profile Banner]([https://via.placeholder.com/1000x300.png?text=Anuradha+|+UI/UX+Design](https://media.licdn.com/dms/image/v2/D4E16AQHYuAgG2-6Thg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729144965892?e=1749081600&v=beta&t=IJuM8M9hvp5B0G-DdQEtdHH5gcqT10isFHJaQuEwEX0))
+![Profile Banner](https://media.licdn.com/dms/image/v2/D4E16AQHYuAgG2-6Thg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729144965892?e=1749081600&v=beta&t=IJuM8M9hvp5B0G-DdQEtdHH5gcqT10isFHJaQuEwEX0)
 
 ### 🚀 About Me
 
