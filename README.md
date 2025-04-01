@@ -22,7 +22,7 @@ I’m a passionate **UI/UX Designer** dedicated to creating digital experiences 
 ### 🌟 Featured Projects
 
 #### 🛍️ **E-Commerce UX Redesign**
-![Project Banner](https://via.placeholder.com/800x300.png?text=E-Commerce+Redesign)
+### ![Project Banner](https://via.placeholder.com/800x300.png?text=E-Commerce+Redesign)
 
 📌 **Objective:** Enhance user engagement and streamline the shopping experience.  
 🎯 **Key Highlights:**
