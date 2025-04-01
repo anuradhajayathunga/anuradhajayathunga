@@ -1,7 +1,3 @@
-Certainly! Below is a creatively reimagined version of your profile, designed to captivate attention while maintaining professionalism. It incorporates engaging visuals, storytelling elements, and a modern layout to make it stand out.
-
----
-
 # 👋 Hi there! I’m **Anuradha**  
 ## 🌟 **UI/UX Designer | Crafting Intuitive & Impactful Digital Experiences**
 
