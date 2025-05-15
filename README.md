@@ -1,106 +1,14 @@
-# 👋 Hi there! I’m **Anuradha**  
-## 🌟 **UI/UX Designer | Crafting Intuitive & Impactful Digital Experiences**
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-![Profile Banner](https://media.licdn.com/dms/image/v2/D4E16AQHYuAgG2-6Thg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729144965892?e=1749081600&v=beta&t=IJuM8M9hvp5B0G-DdQEtdHH5gcqT10isFHJaQuEwEX0)
+# Hello World!, I'm Tobi, a German Web Developer 👋🏼:
+🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
 
----
 
-### 🚀 **About Me: The Story Behind the Designs**
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-Hello, world! 🌍 I’m Anuradha—a passionate **UI/UX Designer** on a mission to create digital experiences that are as functional as they are beautiful. My design journey is fueled by curiosity, empathy, and a relentless drive to solve real-world problems through thoughtful design.
-
-I believe that great design isn’t just about aesthetics—it’s about crafting experiences that resonate with users, streamline their workflows, and bring joy to their interactions. Whether it’s simplifying a complex e-commerce flow or designing an app that boosts productivity, I approach every project with a blend of creativity, strategy, and user-centricity.
-
----
-
-### 🎨 **My Design Toolkit: Where Art Meets Technology**
-
-| **What I Do**                     | **How I Do It**                                                                 |
-|-----------------------------------|--------------------------------------------------------------------------------|
-| ✅ **User-Centered Design**        | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) |
-| ✅ **Prototyping & Wireframing**   | ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat&logo=sketch&logoColor=black) ![InVision](https://img.shields.io/badge/InVision-E85A8C?style=flat&logo=invision&logoColor=white) |
-| ✅ **Visual Design & Branding**    | ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black) ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=Adobe%20Illustrator&logoColor=black) |
-| ✅ **Interaction & Motion Design** | ![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=flat&logo=aftereffects&logoColor=white) ![Lottie](https://img.shields.io/badge/Lottie-FF3D00?style=flat&logo=lottie&logoColor=white) |
-
----
-
-### 🌟 **Featured Projects: Turning Ideas into Reality**
-
-#### 🛍️ **E-Commerce UX Redesign**  
-
-📌 **Objective:** Enhance user engagement and streamline the shopping experience.  
-🎯 **Key Achievements:**  
-- Conducted **in-depth user research** to uncover pain points.  
-- Designed a **modern, responsive interface** with intuitive navigation.  
-- Optimized for **higher conversion rates** and reduced cart abandonment.  
-
-🔧 **Tools Used:** Figma, Photoshop  
-📌 [View Full Project →](#)  
-
----
-
-#### 📱 **Productivity App UX Case Study**  
-
-📌 **Objective:** Improve user experience for better productivity.  
-🎯 **Key Achievements:**  
-- Developed **detailed wireframes** based on user feedback.  
-- Implemented a **user-centric approach** to simplify workflows.  
-- Created interactive prototypes to test usability.  
-
-🔧 **Tools Used:** Adobe XD, Sketch  
-📌 [Read Full Case Study →](#)  
-
----
-
-### 💻 **Open-Source Contributions & Side Projects**
-
-| **Repository**                  | **Description**                              | **Tech Stack**                                                                 |
-|---------------------------------|----------------------------------------------|--------------------------------------------------------------------------------|
-| 🎨 **Design System**            | A library of reusable UI components          | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white) |
-| 💼 **Portfolio Website**         | Showcasing my design projects                | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
-| 🤝 **Design-Dev Collaboration**  | Bridging the gap between design and dev      | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) |
-
-📊 **GitHub Stats:**  
-![Anuradha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
----
-
-### 🎯 **Currently Learning: Pushing Boundaries**
-
-🚀 **Advanced Prototyping Techniques** (Microinteractions, Animations)  
-⚡ **Enhancing JavaScript Skills** (React Hooks, State Management)  
-🎨 **Design System Optimization** (Atomic Design Principles)
-
----
-
-### 📫 **Let’s Connect: Building Together**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
-[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](#)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)  
-
----
-
-### 🎨 **My Design Philosophy: The Heart of My Work**
-
-> *"Great design isn’t just about making things look good—it’s about creating seamless experiences that solve real problems and leave a lasting impact."*
-
----
-
-### 🌈 **Why Work With Me?**
-
-- **Empathy-Driven:** I prioritize understanding your users’ needs to craft solutions that truly matter.  
-- **Collaborative Spirit:** I thrive in cross-functional teams, bridging the gap between design and development.  
-- **Continuous Learner:** Always exploring new tools, trends, and techniques to stay ahead of the curve.  
-
----
-
-### 🌟 **Call to Action: Let’s Build Something Amazing!**
-
-If you’re looking for a designer who can transform your ideas into impactful digital experiences, let’s chat! Whether it’s a website redesign, app development, or a creative brainstorming session—I’m here to help.
-
-📩 **Email:** [anuradha.jaya@gmail.com](mailto:anuradha.jaya@gmail.com)  
-
----
-
-This version uses storytelling, vibrant visuals, and a clear structure to engage readers while showcasing your skills and achievements effectively. Let me know if you'd like further tweaks! 🚀
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
