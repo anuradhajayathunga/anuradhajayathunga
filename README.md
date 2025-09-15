@@ -1,4 +1,3 @@
-<img src="cover pic dark.png" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Anuradha, a Web Developer👋🏼
 
